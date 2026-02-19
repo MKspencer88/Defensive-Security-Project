@@ -22,7 +22,7 @@ This project demonstrates reviewing Windows and Apache Attack Logs. This project
 - Ensured fields such as method, status. referer, and uri_path were correctly recgonized
 
 ### 2. Data Collection
-- I wrote SPL queries to answers specific questions about the dataset [questions with answers](
+- I wrote SPL queries to answers specific questions about the dataset [questions with answers](https://github.com/MKspencer88/Defensive-Security-Project/blob/main/artifacts/MK%20Spencer%20Project%203_%20Review%20Questions.pdf)
 - **HTTP Methods Used:** index=apache_logs
 | stats count by method
 | sort - count
@@ -77,7 +77,7 @@ Splunk made it easy to:
 
 I learned how logs tell a story, how to distinguish normal from malicious behavior, and how to use tools to gain deeper insight.
 
-[Full presentation here](
+[Full presentation here](https://github.com/MKspencer88/Defensive-Security-Project/blob/main/artifacts/Marnie%20Spencer_%20Project%203%20Presentation%20.pdf)
 
 
 
