@@ -1,5 +1,5 @@
 # Defensive-Security-Project
-This project demonstrates reviewing Windows and Apache Attack Logs. This project we worked in a group and spit up the work I was tasked with reviewing the Apache Logs for a the simulated comapany **VSI**
+This project demonstrates reviewing Windows and Apache Attack Logs. This project we worked in a group and split up the work I was tasked with reviewing the Apache Logs for a the simulated comapany **VSI**
 
 # Objective
 - Tracking what type of HTTP method was being used.
@@ -77,7 +77,7 @@ Splunk made it easy to:
 
 I learned how logs tell a story, how to distinguish normal from malicious behavior, and how to use tools to gain deeper insight.
 
-[Full presentation here](https://github.com/MKspencer88/Defensive-Security-Project/blob/main/artifacts/Marnie%20Spencer_%20Project%203%20Presentation%20.pdf)
+[Full presentation slides here](https://github.com/MKspencer88/Defensive-Security-Project/blob/main/artifacts/Marnie%20Spencer_%20Project%203%20Presentation%20.pdf)
 
 
 
